@@ -2,9 +2,9 @@ module.exports = {
   title: '山南水北的博客',
   description: 'Just playing around',
   themeConfig: {
-    // logo: '/assets/img/logo.png', // 导航栏 Logo
+    logo: '/img/logo.png', // 导航栏 Logo
     // navbar: false, // 禁用导航栏
-
+    lastUpdated: 'Last Updated',// 文档更新时间：每个文件git最后提交的时间,
     // 导航栏，导航栏可能包含你的页面标题、搜索框、 导航栏链接、多语言切换、仓库链接，它们均取决于你的配置。
     nav: [
       { text: '首页', link: '/' },  // 导航栏链接

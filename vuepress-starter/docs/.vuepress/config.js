@@ -40,10 +40,11 @@ module.exports = {
     sidebar: {
       '/note/': [
         '',
+        'MarkDown拓展',
         '本地Redis Desktop Manager连接阿里云中docker下Redis',
         '将主机项目war包部署到虚拟机中',
         'Docker容器内解决apt 速度过慢问题',
-        'MyBatis-Plus条件构造器和常用接口'
+        'MyBatis-Plus条件构造器和常用接口',
       ],
       '/webgl/': ['']
     }
